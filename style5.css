@@ -1,0 +1,100 @@
+.backgroundfirstsection{
+    border: none;
+    height: 700px;
+    width: 50%;
+    background-color: paleturquoise;
+    display: flex;
+}
+.container1{
+    border: none;
+    height: 600px;
+    width: 50%;
+    background-color: blue;
+    float: left;
+}
+.container2{
+    border: none;
+    height: 600px;
+    width: 50%;
+    background-color: lightgray ;
+    float: left;
+}
+.innercont1{
+    border: none;
+    height: 500px;
+    width: 80%;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 20%;
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.innercont2{
+    border: none;
+    height: 500px;
+    width: 80%;
+    background-color: white;
+    margin-top: 50px;
+    margin-right: 20%;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 15px;
+    .backgroundfirstsection{
+        border: none;
+        height: 700px;
+        width: 50%;
+        background-color: paleturquoise;
+        display: flex;
+    }
+    .container1{
+        border: none;
+        height: 600px;
+        width: 50%;
+        background-color: blue;
+        float: left;
+    }
+    .container2{
+        border: none;
+        height: 600px;
+        width: 50%;
+        background-color: lightgray ;
+        float: left;
+    }
+    .innercont1{
+        border: none;
+        height: 500px;
+        width: 80%;
+        background-color: white;
+        margin-top: 50px;
+        margin-left: 20%;
+        border-bottom-left-radius: 15px;
+        border-top-left-radius: 15px;
+    }
+    .innercont2{
+        border: none;
+        height: 500px;
+        width: 80%;
+        background-color: white;
+        margin-top: 50px;
+        margin-right: 20%;
+        border-bottom-right-radius: 15px;
+        border-top-right-radius: 15px;
+        
+    }
+    
+    .container3{
+        background-color: rgb(48, 136, 213);
+        align-items: right;
+        margin-left: 700px;
+        margin-right: 200px;
+
+    }
+    .button{
+     color: blue;
+    }
+    .container2{
+        background-color: azure;
+        width: 500px;
+        height: 200px; 
+    }
+
+}
